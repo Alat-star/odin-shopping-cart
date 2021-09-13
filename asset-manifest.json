@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/odin-shopping-cart/static/css/main.f60619fc.chunk.css",
+    "main.js": "/odin-shopping-cart/static/js/main.1c722282.chunk.js",
+    "main.js.map": "/odin-shopping-cart/static/js/main.1c722282.chunk.js.map",
+    "runtime-main.js": "/odin-shopping-cart/static/js/runtime-main.395bbfc5.js",
+    "runtime-main.js.map": "/odin-shopping-cart/static/js/runtime-main.395bbfc5.js.map",
+    "static/css/2.ba9f0521.chunk.css": "/odin-shopping-cart/static/css/2.ba9f0521.chunk.css",
+    "static/js/2.779372d2.chunk.js": "/odin-shopping-cart/static/js/2.779372d2.chunk.js",
+    "static/js/2.779372d2.chunk.js.map": "/odin-shopping-cart/static/js/2.779372d2.chunk.js.map",
+    "index.html": "/odin-shopping-cart/index.html",
+    "static/css/2.ba9f0521.chunk.css.map": "/odin-shopping-cart/static/css/2.ba9f0521.chunk.css.map",
+    "static/css/main.f60619fc.chunk.css.map": "/odin-shopping-cart/static/css/main.f60619fc.chunk.css.map",
+    "static/js/2.779372d2.chunk.js.LICENSE.txt": "/odin-shopping-cart/static/js/2.779372d2.chunk.js.LICENSE.txt",
+    "static/media/ALAT.cf138455.png": "/odin-shopping-cart/static/media/ALAT.cf138455.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.395bbfc5.js",
+    "static/css/2.ba9f0521.chunk.css",
+    "static/js/2.779372d2.chunk.js",
+    "static/css/main.f60619fc.chunk.css",
+    "static/js/main.1c722282.chunk.js"
+  ]
+}
